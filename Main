@@ -1,6 +1,6 @@
 local Library = loadstring(Game:HttpGet("https://raw.githubusercontent.com/bloodball/-back-ups-for-libs/main/wizard"))()
 
-local PhantomForcesWindow = Library:NewWindow("Đạt Mod")
+local PhantomForcesWindow = Library:NewWindow("Đạt Mod V6💯")
 
 local AutoParry = PhantomForcesWindow:NewSection("Main")
 
